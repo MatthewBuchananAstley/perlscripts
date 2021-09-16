@@ -1,4 +1,9 @@
 #!/usr/bin/perl
+#
+# Written somewhere around 2011 to solve the problem of discussion about date errors in the
+# reminder emails for the reclamation of public resources.
+#
+# Copyright Matthew Buchanan Astley
 
 $in = $ARGV[0] ;
 
