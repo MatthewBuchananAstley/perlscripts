@@ -7,7 +7,7 @@ getrelated_email.pl - Harvest email addresses from ripe database objects ( works
 
 log.pl - Some understanding of host density ratio and how to use the log function on the command line/with perl  
 
-addng_new_nodes.pl - Adding new nodes to clustermanager
+addng_new_nodes.pl - Adding new nodes to clustermanager with minimal "cut configuration lines, adjust configuration lines, paste configuration lines"
 
 bright_gethealthdata.pl - Get node health data details from the clustermanager command
 
