@@ -9,4 +9,6 @@ addng_new_nodes.pl - Adding new nodes to clustermanager with minimal "cut config
 
 bright_gethealthdata.pl - Get node health data details from the clustermanager command
 
+gitpresent.pl - Script to get a listing of commits made, in a repository, on the actual day, including filename.
+
 Matthew Buchanan Astley
