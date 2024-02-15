@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# 2022 Matthew Buchanan Astley
+# FileCopyrightText: 2022-2024 Matthew Buchanan Astley (matthewbuchanan@astley.nl,mbastley@gmail.com) 
 #
 # Script to get a listing of commits made, in a repository, on the actual day, including filename.
 # 

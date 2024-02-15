@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# 2022 Matthew Buchanan Astley
+# FileCopyrightText: 2022-2014 Matthew Buchanan Astley (matthewbuchanan@astley.nl,mbastley@gmail.com) 
 #
 # This is a small adjustment to the gitpresent.pl script to have it list the commits since the specified date.
 #
